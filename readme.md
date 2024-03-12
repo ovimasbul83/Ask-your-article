@@ -9,3 +9,27 @@ This Streamlit application allows users to ask questions about a PDF article and
    ```bash
    git clone https://github.com/your-username/ask-your-article.git
    cd ask-your-article
+2. Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
+## Usage
+1. Run the Streamlit application:
+
+   ```bash
+   streamlit run main.py
+
+2. Upload a PDF file using the provided uploader.
+
+3. Ask a question about the PDF article in the text input field.
+
+4. Click the "Ask" button to generate an answer based on the question and the content of the PDF article.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License
+
+   
